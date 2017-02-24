@@ -23,6 +23,8 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [SimPholders](https://simpholders.com/)Access all applications from your menu bar,and quick open Sandbox of Simulator
 - [Lantern](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwidscmh8qPSAhUCpJQKHQP6DxAQFgggMAA&url=https%3A%2F%2Fgetlantern.org%2F&usg=AFQjCNHAvVPQmTYvosHO6rsN60pq7E5G-Q) Lantern delivers fast access to the open Internet （翻墙）
 - [NWPusher](https://github.com/noodlewerk/NWPusher) OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
+- [dSYMTools](https://github.com/answer-huang/dSYMTools) Anaylize crash log with DSYM file
+- [Atom](https://atom.io/) + [Nuclide](https://nuclide.io/) If you need to write react-native Code
 
 
 
