@@ -25,6 +25,6 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [NWPusher](https://github.com/noodlewerk/NWPusher) OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
 - [dSYMTools](https://github.com/answer-huang/dSYMTools) Anaylize crash log with DSYM file
 - [Atom](https://atom.io/) + [Nuclide](https://nuclide.io/) If you need to write react-native Code
-
+- [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector/tree/master/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
 
 
