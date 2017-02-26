@@ -8,6 +8,7 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [appledoc](http://gentlebytes.com/appledoc/) Objective-C API documentation generator 
 - [PaintCode](https://www.paintcodeapp.com/) Turn drawings into code.
 - [fastlane](https://github.com/fastlane/fastlane) Automate building and releasing your iOS and Android apps 
+- [Jenkins](https://jenkins.io/index.html) Continuous integration (CI)
 - [reflector](http://www.airsquirrels.com/reflector/) wireless mirroring and streaming receiver 
 - [sqlitebrowser](http://sqlitebrowser.org/) DB Browser for SQLite
 - [CocoaPods](http://cocoapods.org/) dependency manager for Swift and Objective-C Cocoa projects
