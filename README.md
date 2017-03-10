@@ -4,6 +4,7 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [XCode](https://developer.apple.com/xcode/) you will spend most of your time in it 
 - [xcodebuild](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/xcodebuild.1.html) and [xcrun](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/xcrun.1.html) command line tool to build and archive app
 - [xctool](https://github.com/facebook/xctool) An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
+- [chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [synx](https://github.com/venmo/synx) A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
 - [oclint](http://oclint.org/) Static code analysis tool for improving quality and reducing defects by inspecting C, C++ and Objective-C code and looking for potential problems.
 - [objc-dependency-visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer) Objective-C and Swift dependency visualizer. It's tool that helps to visualize current state of your project. It's really easy to see how tight your classes are coupled.
