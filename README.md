@@ -7,6 +7,7 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [synx](https://github.com/venmo/synx) A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
 - [oclint](http://oclint.org/) Static code analysis tool for improving quality and reducing defects by inspecting C, C++ and Objective-C code and looking for potential problems.
+- [swiftlint](https://github.com/realm/SwiftLint) A tool to enforce Swift style and conventions. 
 - [objc-dependency-visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer) Objective-C and Swift dependency visualizer. It's tool that helps to visualize current state of your project. It's really easy to see how tight your classes are coupled.
 - [Charles](https://www.charlesproxy.com/) Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 - [MacDown](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi3jfrK5qPSAhWJgrwKHSfxDVsQFggeMAA&url=https%3A%2F%2Fmacdown.uranusjr.com%2F&usg=AFQjCNEdagDsGjWdDC4YXotMtxClH9lX_g) open source Markdown editor for macOS
