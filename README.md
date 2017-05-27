@@ -22,9 +22,6 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 - [PonyDebugger](https://github.com/square/PonyDebugger)Remote network and data debugging for your native iOS app using Chrome Developer Tools
 - [Sketch](https://www.sketchapp.com/) Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
-- [reveal](https://revealapp.com/) Reveal brings powerful runtime view debugging to iOS developers
-- [class dump](http://stevenygard.com/projects/class-dump/) a command-line utility for examining the Objective-C runtime information stored in Mach-O files
-- [theos](https://github.com/theos/theos) Unified cross-platform Makefile system
 - [Postman](https://www.getpostman.com/) Faster, easier API development 
 - [gif brewery](http://gifbrewery.com/) Easy to create GIF
 - [SimPholders](https://simpholders.com/)Access all applications from your menu bar,and quick open Sandbox of Simulator
@@ -36,6 +33,12 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [GodEye](https://github.com/zixun/GodEye) Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
 - [FLEX](https://github.com/Flipboard/FLEX) An in-app debugging and exploration tool for iOS
 - [WHC_ScanUnreferenceImageTool](https://github.com/netyouli/WHC_ScanUnreferenceImageTool) Scanning project does not use images in tool, delete without reference images to reduce the packaging volume
+
+## Reverse engineering
+
+- [class dump](http://stevenygard.com/projects/class-dump/) a command-line utility for examining the Objective-C runtime information stored in Mach-O files
+- [Keychain-Dumper](https://github.com/ptoomey3/Keychain-Dumper)A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken
+- [reveal](https://revealapp.com/) Reveal brings powerful runtime view debugging to iOS developers
+- [theos](https://github.com/theos/theos) Unified cross-platform Makefile system
 - [iPhoneDevWiki](http://iphonedevwiki.net/index.php/Main_Page) Wiki about jailbroken iOS development
-
-
+- [Hopper Disassembler](https://www.hopperapp.com/) Reverse engineering tool that lets you disassemble, decompile and debug your applications. 
