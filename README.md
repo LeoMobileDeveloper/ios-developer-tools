@@ -1,9 +1,10 @@
 # awesome-ios-develop-tools
 A list of tools such like Charles that are helpful during developing iOS App
 
-## IDE/Editor
+## IDE
 - [XCode](https://developer.apple.com/xcode/) you will spend most of your time in it 
 - [CocoaPods](http://cocoapods.org/) dependency manager for Swift and Objective-C Cocoa projects
+- [Carthage](https://github.com/Carthage/Carthage) A simple, decentralized dependency manager for Cocoa
 - [Atom](https://atom.io/) + [Nuclide](https://nuclide.io/) If you need to write react-native Code
 - [MacDown](http://macdown.uranusjr.com/) open source Markdown editor for macOS
 
