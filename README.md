@@ -52,7 +52,8 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [gif brewery](http://gifbrewery.com/) Easy to create GIF
 - [NWPusher](https://github.com/noodlewerk/NWPusher) OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
 - [jazzy](https://github.com/realm/jazzy) Soulful docs for Swift & Objective-C
-- [ImageOptim](https://imageoptim.com/mac)ImageOptim makes images load faster
+- [ImageOptim](https://imageoptim.com/mac) ImageOptim makes images load faster
+- [TinyPng.com](https://tinypng.com/) Smart PNG and JPEG compression
 
 
 ## Reverse engineering
