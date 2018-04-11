@@ -65,3 +65,4 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [theos](https://github.com/theos/theos) Unified cross-platform Makefile system
 - [iPhoneDevWiki](http://iphonedevwiki.net/index.php/Main_Page) Wiki about jailbroken iOS development
 - [Hopper Disassembler](https://www.hopperapp.com/) Reverse engineering tool that lets you disassemble, decompile and debug your applications. 
+- [MachOView](https://github.com/gdbinit/MachOView) View the raw data of mach-o(iOS executeable file format)
