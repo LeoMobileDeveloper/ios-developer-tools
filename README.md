@@ -13,7 +13,10 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [xctool](https://github.com/facebook/xctool) An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
 - [synx](https://github.com/venmo/synx) A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
 - [Kin](https://github.com/Karumi/Kin) Simple PBXProj Verifier (If you has problem to git merge the project.pbxproj file)
-
+tmux is a "terminal multiplexer", it enables a number of terminals (or windows)
+to be accessed and controlled from a single terminal.
+- [tmux](https://github.com/tmux/tmux) tmux is a "terminal multiplexer", it enables a number of terminals (or windows)
+to be accessed and controlled from a single terminal.
 
 ## DEBUG
 - [chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
