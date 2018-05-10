@@ -73,5 +73,6 @@ to be accessed and controlled from a single terminal.
 - [MachOView](https://github.com/gdbinit/MachOView) View the raw data of mach-o(iOS executeable file format)
 - [frida](https://www.frida.re/) Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [cycript](http://www.cycript.org/) Cycript allows developers to explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript syntax through an interactive console that features syntax highlighting and tab completion.
+- [dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.
 
 
