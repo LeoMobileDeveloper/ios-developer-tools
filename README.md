@@ -74,5 +74,7 @@ to be accessed and controlled from a single terminal.
 - [frida](https://www.frida.re/) Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [cycript](http://www.cycript.org/) Cycript allows developers to explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript syntax through an interactive console that features syntax highlighting and tab completion.
 - [dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.
+- [passionfruit](https://github.com/chaitin/passionfruit) Simple iOS app blackbox assessment tool. Powered by frida.re and vuejs.
+- [objection](https://github.com/sensepost/objection) 📱 objection - runtime mobile exploration
 
 
