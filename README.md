@@ -77,4 +77,5 @@ to be accessed and controlled from a single terminal.
 - [passionfruit](https://github.com/chaitin/passionfruit) Simple iOS app blackbox assessment tool. Powered by frida.re and vuejs.
 - [objection](https://github.com/sensepost/objection) 📱 objection - runtime mobile exploration
 - [Hikari](https://github.com/HikariObfuscator/Hikari) LLVM Obfuscator https://keybase.io/team/hikari
+- [Clutch](https://github.com/KJCracks/Clutch) Fast iOS executable dumper
 
