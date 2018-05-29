@@ -78,4 +78,6 @@ to be accessed and controlled from a single terminal.
 - [objection](https://github.com/sensepost/objection) 📱 objection - runtime mobile exploration
 - [Hikari](https://github.com/HikariObfuscator/Hikari) LLVM Obfuscator https://keybase.io/team/hikari
 - [Clutch](https://github.com/KJCracks/Clutch) Fast iOS executable dumper
+- [otool](https://www.unix.com/man-page/osx/1/otool/) The otool command displays specified parts of object files or libraries. It can also disassemble:
+- [nm](http://unixhelp.ed.ac.uk/CGI/man-cgi?nm) nm is a utility that displays the symbol table of a given binary.
 
