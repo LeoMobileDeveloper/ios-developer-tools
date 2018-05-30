@@ -28,6 +28,7 @@ to be accessed and controlled from a single terminal.
 - [FLEX](https://github.com/Flipboard/FLEX) An in-app debugging and exploration tool for iOS
 - [GodEye](https://github.com/zixun/GodEye) Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
 - [injectionforxcode](https://github.com/johnno1962/injectionforxcode) Injection for Xcode is an Xcode plugin (available via Alcatraz) or AppCode that dynamically inserts new Swift / Objective-C code into a running app in order to speed up your build process
+- [Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html) Instruments is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. 
 
 ## Project Anaylize
 - [oclint](http://oclint.org/) Static code analysis tool for improving quality and reducing defects by inspecting C, C++ and Objective-C code and looking for potential problems.
