@@ -18,6 +18,7 @@ tmux is a "terminal multiplexer", it enables a number of terminals (or windows)
 to be accessed and controlled from a single terminal.
 - [tmux](https://github.com/tmux/tmux) tmux is a "terminal multiplexer", it enables a number of terminals (or windows)
 to be accessed and controlled from a single terminal.
+- [Jazzy](https://github.com/realm/jazzy) Soulful docs for Swift & Objective-C 
 
 ## DEBUG
 - [chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
