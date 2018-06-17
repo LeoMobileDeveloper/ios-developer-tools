@@ -31,6 +31,7 @@ to be accessed and controlled from a single terminal.
 - [injectionforxcode](https://github.com/johnno1962/injectionforxcode) Injection for Xcode is an Xcode plugin (available via Alcatraz) or AppCode that dynamically inserts new Swift / Objective-C code into a running app in order to speed up your build process
 - [Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html) Instruments is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. 
 - [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole) In-App debug console for your UIWebView & WKWebView
+- [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
 
 ## Project Anaylize
 - [oclint](http://oclint.org/) Static code analysis tool for improving quality and reducing defects by inspecting C, C++ and Objective-C code and looking for potential problems.
