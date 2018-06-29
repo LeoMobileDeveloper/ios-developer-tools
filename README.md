@@ -8,6 +8,7 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [Atom](https://atom.io/) + [Nuclide](https://nuclide.io/) If you need to write react-native Code
 - [MacDown](http://macdown.uranusjr.com/) open source Markdown editor for macOS
 - [Visual Studio Code](https://code.visualstudio.com/) Excellent ide
+- [starUML](http://staruml.io/) A sophisticated software modeler for agile and concise modeling
 
 ## Command Line Tool
 - [xcodebuild](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/xcodebuild.1.html) and - [xcrun](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/xcrun.1.html) command line tool to build and archive app
