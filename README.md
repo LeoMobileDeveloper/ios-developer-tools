@@ -2,6 +2,7 @@
 A list of tools such like Charles that are helpful during developing iOS App
 
 ## IDE
+
 - [XCode](https://developer.apple.com/xcode/) you will spend most of your time in it 
 - [CocoaPods](http://cocoapods.org/) dependency manager for Swift and Objective-C Cocoa projects
 - [Carthage](https://github.com/Carthage/Carthage) A simple, decentralized dependency manager for Cocoa
@@ -11,6 +12,7 @@ A list of tools such like Charles that are helpful during developing iOS App
 - [starUML](http://staruml.io/) A sophisticated software modeler for agile and concise modeling
 
 ## Command Line Tool
+
 - [xcodebuild](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/xcodebuild.1.html) and - [xcrun](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/xcrun.1.html) command line tool to build and archive app
 - [xctool](https://github.com/facebook/xctool) An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
 - [synx](https://github.com/venmo/synx) A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
@@ -23,6 +25,7 @@ to be accessed and controlled from a single terminal.
 - [Jazzy](https://github.com/realm/jazzy) Soulful docs for Swift & Objective-C 
 
 ## DEBUG
+
 - [Sonar](https://fbsonar.com/) Sonar is a platform for debugging mobile apps on iOS and Android. Visualize, inspect, and control your apps from a simple desktop interface. Use Sonar as is or extend it using the plugin API.
 - [chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) A fast & simple, yet powerful & flexible logging framework for Mac and iOS
@@ -39,6 +42,7 @@ to be accessed and controlled from a single terminal.
 - [Apple System Status](https://developer.apple.com/system-status/) 
 
 ## Project Anaylize
+
 - [oclint](http://oclint.org/) Static code analysis tool for improving quality and reducing defects by inspecting C, C++ and Objective-C code and looking for potential problems.
 - [swiftlint](https://github.com/realm/SwiftLint) A tool to enforce Swift style and conventions. 
 - [objc-dependency-visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer) Objective-C and Swift dependency visualizer. It's tool that helps to visualize current state of your project. It's really easy to see how tight your classes are coupled.
@@ -46,6 +50,7 @@ to be accessed and controlled from a single terminal.
 - [FengNiao](https://github.com/onevcat/FengNiao) A command line tool for cleaning unused resources in Xcode.
 
 ## Network
+
 - [Charles](https://www.charlesproxy.com/) Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 - [Postman](https://www.getpostman.com/) Faster, easier API development 
 - [Lantern](https://github.com/getlantern/lantern) Lantern delivers fast access to the open Internet （翻墙）
@@ -53,11 +58,14 @@ to be accessed and controlled from a single terminal.
 - [netfox](https://github.com/kasketis/netfox) A lightweight, one line setup, iOS / OSX network debugging library! 🦊
 
 ## Data
+
 - [sqlitebrowser](http://sqlitebrowser.org/) DB Browser for SQLite
 - [SimPholders](https://simpholders.com/)Access all applications from your menu bar,and quick open Sandbox of Simulator
 
 ## Other
+
 - [Jenkins](https://jenkins.io/index.html) Continuous integration (CI)
+- [GitLabCI](https://about.gitlab.com/features/gitlab-ci-cd/) CI in gitlab
 - [fastlane](https://github.com/fastlane/fastlane) Automate building and releasing your iOS and Android apps 
 - [appledoc](http://gentlebytes.com/appledoc/) Objective-C API documentation generator 
 - [Source Tree](http://www.sourcetreeapp.com/) Harness the power of Git and Hg in a beautifully simple application
