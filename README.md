@@ -101,3 +101,7 @@ to be accessed and controlled from a single terminal.
 - [otool](https://www.unix.com/man-page/osx/1/otool/) The otool command displays specified parts of object files or libraries. It can also disassemble:
 - [nm](http://unixhelp.ed.ac.uk/CGI/man-cgi?nm) nm is a utility that displays the symbol table of a given binary.
 
+## App Guard
+
+- [ios-class-guard](https://github.com/Polidea/ios-class-guard) Simple Objective-C obfuscator for Mach-O executables
+
