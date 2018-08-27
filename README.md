@@ -68,6 +68,7 @@ to be accessed and controlled from a single terminal.
 ## Compiler
 
 - [ccache](https://ccache.samba.org/) ccache is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again
+- [swiff](https://github.com/agens-no/swiff) Human readable time diffs on lines of output when running e.g. build commands like fastlane
 
 ## Other
 
