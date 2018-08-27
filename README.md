@@ -108,3 +108,4 @@ to be accessed and controlled from a single terminal.
 
 - [ios-class-guard](https://github.com/Polidea/ios-class-guard) Simple Objective-C obfuscator for Mach-O executables
 - [obfuscator](https://github.com/obfuscator-llvm/obfuscator) obfuscator
+- [Obfuscator-iOS](https://github.com/pjebs/Obfuscator-iOS) Secure your app by obfuscating all the hard-coded security-sensitive strings.
