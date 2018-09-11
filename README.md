@@ -60,6 +60,7 @@ to be accessed and controlled from a single terminal.
 - [Lantern](https://github.com/getlantern/lantern) Lantern delivers fast access to the open Internet （翻墙）
 - [wireshark](https://www.wireshark.org/) Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
 - [netfox](https://github.com/kasketis/netfox) A lightweight, one line setup, iOS / OSX network debugging library! 🦊
+- [JSONLint](https://jsonlint.com/) JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format
 
 ## Data
 
