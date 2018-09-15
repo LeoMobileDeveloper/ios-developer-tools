@@ -89,7 +89,7 @@ to be accessed and controlled from a single terminal.
 - [ImageOptim](https://imageoptim.com/mac) ImageOptim makes images load faster
 - [TinyPng.com](https://tinypng.com/) Smart PNG and JPEG compression
 - [OOMDetector](https://github.com/Tencent/OOMDetector) OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
-
+- [lottie-ios](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations 
 
 ## Reverse engineering
 
