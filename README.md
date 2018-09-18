@@ -26,6 +26,7 @@ to be accessed and controlled from a single terminal.
 - [xcpretty](https://github.com/supermarin/xcpretty) Flexible and fast xcodebuild formatter
 - [Jazzy](https://github.com/realm/jazzy) Soulful docs for Swift & Objective-C 
 - [xiblint](https://github.com/lyft/xiblint) A tool for linting storyboard and xib files
+- [brew](https://github.com/Homebrew/brew) 🍺 The missing package manager for macOS
 
 ## DEBUG
 
