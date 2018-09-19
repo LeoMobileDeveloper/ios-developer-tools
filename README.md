@@ -97,6 +97,7 @@ to be accessed and controlled from a single terminal.
 ## Reverse engineering
 
 - [canijailbreak](https://canijailbreak.com/) jailbreak tools
+- [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 - [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
 - [class dump](http://stevenygard.com/projects/class-dump/) a command-line utility for examining the Objective-C runtime information stored in Mach-O files
 - [Keychain-Dumper](https://github.com/ptoomey3/Keychain-Dumper)A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken
