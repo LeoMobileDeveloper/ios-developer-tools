@@ -54,6 +54,7 @@ to be accessed and controlled from a single terminal.
 - [WHC_ScanUnreferenceImageTool](https://github.com/netyouli/WHC_ScanUnreferenceImageTool) Scanning project does not use images in tool, delete without reference images to reduce the packaging volume
 - [FengNiao](https://github.com/onevcat/FengNiao) A command line tool for cleaning unused resources in Xcode.
 - [IBAnalyzer](https://github.com/fastred/IBAnalyzer) Find common xib and storyboard-related problems without running your app or writing unit tests.
+- [Simian](http://www.harukizaemon.com/simian/index.html) Similarity Analyser
 
 ## Network
 
