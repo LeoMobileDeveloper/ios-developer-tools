@@ -55,6 +55,7 @@ to be accessed and controlled from a single terminal.
 - [FengNiao](https://github.com/onevcat/FengNiao) A command line tool for cleaning unused resources in Xcode.
 - [IBAnalyzer](https://github.com/fastred/IBAnalyzer) Find common xib and storyboard-related problems without running your app or writing unit tests.
 - [Simian](http://www.harukizaemon.com/simian/index.html) Similarity Analyser
+- [cartool](https://github.com/steventroughtonsmith/cartool) Export images from OS X / iOS .car CoreUI archives
 
 ## Network
 
