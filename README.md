@@ -82,6 +82,7 @@ to be accessed and controlled from a single terminal.
 
 - [Jenkins](https://jenkins.io/index.html) Continuous integration (CI)
 - [GitLabCI](https://about.gitlab.com/features/gitlab-ci-cd/) CI in gitlab
+- [danger](https://github.com/danger/danger) Formalize your Pull Request etiquette.
 - [fastlane](https://github.com/fastlane/fastlane) Automate building and releasing your iOS and Android apps 
 - [appledoc](http://gentlebytes.com/appledoc/) Objective-C API documentation generator 
 - [Source Tree](http://www.sourcetreeapp.com/) Harness the power of Git and Hg in a beautifully simple application
