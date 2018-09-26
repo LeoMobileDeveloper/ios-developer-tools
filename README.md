@@ -78,6 +78,10 @@ to be accessed and controlled from a single terminal.
 - [swiff](https://github.com/agens-no/swiff) Human readable time diffs on lines of output when running e.g. build commands like fastlane
 - [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) Collection of advice on optimizing compile times of Swift projects.
 
+## App Store
+
+- [App Store Promote](https://developer.apple.com//contact/app-store/promote/)
+
 ## Other
 
 - [Jenkins](https://jenkins.io/index.html) Continuous integration (CI)
