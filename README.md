@@ -129,6 +129,7 @@ to be accessed and controlled from a single terminal.
 - [jtool](http://www.newosxbook.com/tools/jtool.html) The jtool command is meant to meet and exceed the functionality to XCode's otool(1), picking up along the way additional Mach-O commands such as atos(1), dyldinfo(1), nm(1), segedit(1), pagestuff(1), strings(1) , and even codesign(1) and the informal ldid. 
 - [capstone](https://github.com/aquynh/capstone) Capstone disassembly/disassembler framework
 - [class-dump-swift](https://github.com/Maximus-/class-dump-swift) Swift Class Dumper
+- [iosre](http://bbs.iosre.com/) Chinese reverse engineering bbs
 
 ## App Guard
 
