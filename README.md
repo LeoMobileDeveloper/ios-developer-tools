@@ -84,6 +84,7 @@ to be accessed and controlled from a single terminal.
 ## App Store
 
 - [App Store Promote](https://developer.apple.com//contact/app-store/promote/)
+- [Expedited App Review](https://developer.apple.com/contact/app-store/)
 
 ## Other
 
