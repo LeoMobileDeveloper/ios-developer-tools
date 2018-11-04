@@ -59,6 +59,7 @@ to be accessed and controlled from a single terminal.
 - [cartool](https://github.com/steventroughtonsmith/cartool) Export images from OS X / iOS .car CoreUI archives
 - [XcodeZombieCode](https://github.com/kangwang1988/XcodeZombieCode) A source-code level/Clang Approach
 - [Faux Pas](http://fauxpasapp.com/) Find errors in your iOS or Mac project(Not free)
+- [xcodeproj](https://github.com/tuist/xcodeproj) 📝 Read, update and write your Xcode projects https://tuist.github.io/xcodeproj/
 
 ## Network
 
