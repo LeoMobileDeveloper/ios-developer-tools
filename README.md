@@ -83,10 +83,11 @@ to be accessed and controlled from a single terminal.
 - [swiff](https://github.com/agens-no/swiff) Human readable time diffs on lines of output when running e.g. build commands like fastlane
 - [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) Collection of advice on optimizing compile times of Swift projects.
 
-## App Store
+## Apple
 
 - [App Store Promote](https://developer.apple.com//contact/app-store/promote/)
 - [Expedited App Review](https://developer.apple.com/contact/app-store/)
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
 
 ## Other
 
