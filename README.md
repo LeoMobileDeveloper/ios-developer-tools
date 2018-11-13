@@ -134,6 +134,7 @@ to be accessed and controlled from a single terminal.
 - [capstone](https://github.com/aquynh/capstone) Capstone disassembly/disassembler framework
 - [class-dump-swift](https://github.com/Maximus-/class-dump-swift) Swift Class Dumper
 - [iosre](http://bbs.iosre.com/) Chinese reverse engineering bbs
+- [Retriever](https://github.com/cyanzhong/Retriever) Retrieving InfoPlist without Jailbreaking on iOS Devices
 
 ## App Guard
 
