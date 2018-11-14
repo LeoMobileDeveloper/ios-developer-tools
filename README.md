@@ -82,6 +82,7 @@ to be accessed and controlled from a single terminal.
 - [ccache](https://ccache.samba.org/) ccache is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again
 - [swiff](https://github.com/agens-no/swiff) Human readable time diffs on lines of output when running e.g. build commands like fastlane
 - [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) Collection of advice on optimizing compile times of Swift projects.
+- [Ninja](https://ninja-build.org/) Ninja is a small build system with a focus on speed
 
 ## Apple
 
