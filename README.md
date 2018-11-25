@@ -67,6 +67,7 @@ to be accessed and controlled from a single terminal.
 
 - [Charles](https://www.charlesproxy.com/) Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 - [Postman](https://www.getpostman.com/) Faster, easier API development 
+- [iperf](https://github.com/esnet/iperf) iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
 - [Lantern](https://github.com/getlantern/lantern) Lantern delivers fast access to the open Internet
 - [shadowsocks](https://shadowsocks.org/en/index.html) A secure socks5 proxy,designed to protect your Internet traffic.
 - [wireshark](https://www.wireshark.org/) Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
