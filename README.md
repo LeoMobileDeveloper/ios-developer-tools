@@ -31,6 +31,7 @@ to be accessed and controlled from a single terminal.
 - [brew](https://github.com/Homebrew/brew) 🍺 The missing package manager for macOS
 - [cloc](https://github.com/AlDanial/cloc) cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [xcproj](https://github.com/0xced/xcproj) Command line tool for manipulating Xcode project files
+- [autojump](https://github.com/wting/autojump) A cd command that learns - easily navigate directories from the command line
 
 ## DEBUG
 
