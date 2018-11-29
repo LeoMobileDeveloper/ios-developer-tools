@@ -94,6 +94,7 @@ to be accessed and controlled from a single terminal.
 - [App Store Promote](https://developer.apple.com//contact/app-store/promote/)
 - [Expedited App Review](https://developer.apple.com/contact/app-store/)
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
+- [Optimizing for App Store Search](https://developer.apple.com/app-store/search/)
 
 ## Other
 
