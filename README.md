@@ -5,6 +5,7 @@ A collection of tools that an iOS developer should know.
 ## IDE
 
 - [XCode](https://developer.apple.com/xcode/) you will spend most of your time in it 
+- [awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) Awesome native Xcode extensions.
 - [iSimulator](https://github.com/wigl/iSimulator) iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
 - [CocoaPods](http://cocoapods.org/) dependency manager for Swift and Objective-C Cocoa projects
 - [Carthage](https://github.com/Carthage/Carthage) A simple, decentralized dependency manager for Cocoa
