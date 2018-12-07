@@ -89,6 +89,7 @@ to be accessed and controlled from a single terminal.
 - [ClangKit](https://github.com/macmade/ClangKit) ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
 - [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) Collection of advice on optimizing compile times of Swift projects.
 - [Ninja](https://ninja-build.org/) Ninja is a small build system with a focus on speed
+- [emscripten]https://github.com/kripken/emscripten Emscripten: An LLVM-to-JavaScript Compiler
 
 ## Apple
 
