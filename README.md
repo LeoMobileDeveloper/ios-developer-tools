@@ -49,7 +49,6 @@ to be accessed and controlled from a single terminal.
 - [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole) In-App debug console for your UIWebView & WKWebView
 - [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
 - [spy-debugger](https://github.com/wuchangming/spy-debugger) WebView,WeChat WebView,Safari Debugger
-- [Apple System Status](https://developer.apple.com/system-status/) 
 
 ## Project Anaylize
 
@@ -97,6 +96,7 @@ to be accessed and controlled from a single terminal.
 - [Expedited App Review](https://developer.apple.com/contact/app-store/)
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [Optimizing for App Store Search](https://developer.apple.com/app-store/search/)
+- [Apple System Status](https://developer.apple.com/system-status/) 
 
 ## Other
 
