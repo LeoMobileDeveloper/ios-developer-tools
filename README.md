@@ -63,8 +63,8 @@ to be accessed and controlled from a single terminal.
 - [XcodeZombieCode](https://github.com/kangwang1988/XcodeZombieCode) A source-code level/Clang Approach
 - [Faux Pas](http://fauxpasapp.com/) Find errors in your iOS or Mac project(Not free)
 - [xcodeproj](https://github.com/tuist/xcodeproj) 📝 Read, update and write your Xcode projects https://tuist.github.io/xcodeproj/
-- [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) An app that lets you open .car files and browse/extract their images.
 - [objc_dep](https://github.com/nst/objc_dep) Graph the import dependancies in an Objective-C project
+- [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) An app that lets you open .car files and browse/extract their images.
 
 ## Network
 
