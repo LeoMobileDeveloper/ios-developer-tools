@@ -34,7 +34,7 @@ to be accessed and controlled from a single terminal.
 
 ## DEBUG
 
-- [Sonar](https://fbsonar.com/) Sonar is a platform for debugging mobile apps on iOS and Android. Visualize, inspect, and control your apps from a simple desktop interface. Use Sonar as is or extend it using the plugin API.
+- [Flipper](https://fbsonar.com/) Flipper is a platform for debugging mobile apps on iOS and Android. Visualize, inspect, and control your apps from a simple desktop interface. Use Flipper as is or extend it using the plugin API.
 - [chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 - [PonyDebugger](https://github.com/square/PonyDebugger)Remote network and data debugging for your native iOS app using Chrome Developer Tools
