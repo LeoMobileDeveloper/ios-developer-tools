@@ -148,6 +148,7 @@ to be accessed and controlled from a single terminal.
 - [iReSign](https://github.com/maciekish/iReSign) iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution.
 - [MachO-Kit](https://github.com/DeVaukz/MachO-Kit) A C/Objective-C library for parsing Mach-O files.
 - [insert_dylib](https://github.com/Tyilo/insert_dylib) Command line utility for inserting a dylib load command into a Mach-O binary
+- [yololib](https://github.com/KJCracks/yololib) dylib injector for mach-o binaries
 
 ## App Guard
 
