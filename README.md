@@ -80,6 +80,7 @@ to be accessed and controlled from a single terminal.
 
 - [sqlitebrowser](http://sqlitebrowser.org/) DB Browser for SQLite
 - [SimPholders](https://simpholders.com/)Access all applications from your menu bar,and quick open Sandbox of Simulator
+- [SimSim](https://github.com/dsmelov/simsim)Fast, stable, free alternative to SimPholders
 
 ## Compiler
 
