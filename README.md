@@ -48,6 +48,7 @@ to be accessed and controlled from a single terminal.
 - [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
 - [spy-debugger](https://github.com/wuchangming/spy-debugger) WebView,WeChat WebView,Safari Debugger
 - [AppleTrace](https://github.com/everettjf/AppleTrace) Objective C message tracing tool for iOS/macOS
+- [iOS Console](http://lemonjar.com/iosconsole/) iOS Console allows you to view iOS console logs directly from your Mac
 
 ## Project Analyze
 
