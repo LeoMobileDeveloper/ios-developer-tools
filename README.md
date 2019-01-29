@@ -6,13 +6,23 @@ A collection of tools that an iOS developer should know.
 
 - [Xcode](https://developer.apple.com/xcode/) you will spend most of your time with it 
 - [awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) Awesome native Xcode extensions.
-- [iSimulator](https://github.com/wigl/iSimulator) iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
-- [CocoaPods](http://cocoapods.org/) dependency manager for Swift and Objective-C Cocoa projects
-- [Carthage](https://github.com/Carthage/Carthage) A simple, decentralized dependency manager for Cocoa
 - [Atom](https://atom.io/) + [Nuclide](https://nuclide.io/) If you need to write react-native Code
 - [MacDown](http://macdown.uranusjr.com/) open source Markdown editor for macOS
 - [Visual Studio Code](https://code.visualstudio.com/) Excellent ide
 - [starUML](http://staruml.io/) A sophisticated software modeler for agile and concise modeling
+
+## Dependency Manager
+
+- [CocoaPods](http://cocoapods.org/) dependency manager for Swift and Objective-C Cocoa projects
+- [Carthage](https://github.com/Carthage/Carthage) A simple, decentralized dependency manager for Cocoa
+
+## Platform
+
+- [Firebase](https://firebase.google.com/) Firebase is a BaaS  (Backend-as-a-Service) that can be your server, datastore, and API at the same time. 
+	- [Crashlytics](https://firebase.google.com/docs/crashlytics/) Spend less time troubleshooting & more time building great apps. 
+- [Parse](https://parseplatform.org/) Build applications faster with object and file storage,
+user authentication, push notifications, dashboard and more out of the box.
+
 
 ## Command Line Tool
 
@@ -49,6 +59,7 @@ to be accessed and controlled from a single terminal.
 - [spy-debugger](https://github.com/wuchangming/spy-debugger) WebView,WeChat WebView,Safari Debugger
 - [AppleTrace](https://github.com/everettjf/AppleTrace) Objective C message tracing tool for iOS/macOS
 - [iOS Console](http://lemonjar.com/iosconsole/) iOS Console allows you to view iOS console logs directly from your Mac
+- [iSimulator](https://github.com/wigl/iSimulator) iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
 
 ## Project Analyze
 
