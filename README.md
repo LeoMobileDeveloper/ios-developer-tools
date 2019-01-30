@@ -93,9 +93,9 @@ to be accessed and controlled from a single terminal.
 - [sqlitebrowser](http://sqlitebrowser.org/) DB Browser for SQLite
 - [SimPholders](https://simpholders.com/) Access all applications from your menu bar,and quick open Sandbox of Simulator
 - [SimSim](https://github.com/dsmelov/simsim) Fast, stable, free alternative to SimPholders
+- [SQLCipher](https://github.com/sqlcipher/sqlcipher) SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
 
 ## Compiler
-
 
 - [ccache](https://ccache.samba.org/) ccache is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again
 - [swiff](https://github.com/agens-no/swiff) Human readable time diffs on lines of output when running e.g. build commands like fastlane
