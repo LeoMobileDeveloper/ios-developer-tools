@@ -8,7 +8,7 @@ A collection of tools that an iOS developer should know.
 - [awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) Awesome native Xcode extensions.
 - [Atom](https://atom.io/) + [Nuclide](https://nuclide.io/) If you need to write react-native Code
 - [MacDown](http://macdown.uranusjr.com/) open source Markdown editor for macOS
-- [Visual Studio Code](https://code.visualstudio.com/) Excellent ide
+- [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code is a source code editor. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring.
 - [starUML](http://staruml.io/) A sophisticated software modeler for agile and concise modeling
 
 ## Dependency Manager
