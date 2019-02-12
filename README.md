@@ -87,6 +87,7 @@ to be accessed and controlled from a single terminal.
 - [shadowsocks](https://shadowsocks.org/en/index.html) A secure socks5 proxy,designed to protect your Internet traffic.
 - [wireshark](https://www.wireshark.org/) Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
 - [netfox](https://github.com/kasketis/netfox) A lightweight, one line setup, iOS / OSX network debugging library! 🦊
+- [GCDWebServer](https://github.com/swisspol/GCDWebServer) GCDWebServer is a modern and lightweight GCD based HTTP 1.1 server designed to be embedded in iOS, macOS & tvOS apps.
 - [JSONLint](https://jsonlint.com/) JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format
 
 ## Data
