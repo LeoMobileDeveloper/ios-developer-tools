@@ -61,6 +61,7 @@ to be accessed and controlled from a single terminal.
 - [AppleTrace](https://github.com/everettjf/AppleTrace) Objective C message tracing tool for iOS/macOS
 - [iOS Console](http://lemonjar.com/iosconsole/) iOS Console allows you to view iOS console logs directly from your Mac
 - [iSimulator](https://github.com/wigl/iSimulator) iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
+- [DoraemonKit](https://github.com/didi/DoraemonKit) A full-featured App (iOS & Android) development assistant.
 
 ## Project Analyze
 
