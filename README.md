@@ -42,6 +42,7 @@ to be accessed and controlled from a single terminal.
 - [xcproj](https://github.com/0xced/xcproj) Command line tool for manipulating Xcode project files
 - [autojump](https://github.com/wting/autojump) A cd command that learns - easily navigate directories from the command line
 - [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) A code library and command-line formatting tool for reformatting Swift code
+- [ios-deploy](https://github.com/ios-control/ios-deploy) Install and debug iPhone apps from the command line, without using Xcode
 
 ## DEBUG
 
