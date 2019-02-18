@@ -116,6 +116,8 @@ to be accessed and controlled from a single terminal.
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [Optimizing for App Store Search](https://developer.apple.com/app-store/search/)
 - [Apple System Status](https://developer.apple.com/system-status/) 
+- [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+    - [Simplified Chinese](https://developer.apple.com/cn/app-store/review/guidelines/)
 
 ## Other
 
