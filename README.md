@@ -159,7 +159,7 @@ to be accessed and controlled from a single terminal.
 - [cycript](http://www.cycript.org/) Cycript allows developers to explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript syntax through an interactive console that features syntax highlighting and tab completion.
 - [dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.
 - [passionfruit](https://github.com/chaitin/passionfruit) Simple iOS app blackbox assessment tool. Powered by frida.re and vuejs.
-- [objection](https://github.com/sensepost/objection) 📱 objection - runtime mobile exploration
+- [objection](https://github.com/sensepost/objection) Assess mobile applications and their security posture without the need for a jailbroken or rooted mobile device.
 - [Hikari](https://github.com/HikariObfuscator/Hikari) LLVM Obfuscator https://keybase.io/team/hikari
 - [Clutch](https://github.com/KJCracks/Clutch) Fast iOS executable dumper
 - [otool](https://www.unix.com/man-page/osx/1/otool/) The otool command displays specified parts of object files or libraries. It can also disassemble:
