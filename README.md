@@ -131,7 +131,7 @@ to be accessed and controlled from a single terminal.
 - [PaintCode](https://www.paintcodeapp.com/) Turn drawings into code.
 - [reflector](http://www.airsquirrels.com/reflector/) wireless mirroring and streaming receiver 
 - [Sketch](https://www.sketchapp.com/) Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
-- [Haiku](https://www.haiku.ai/)Design components that snap into any codebase
+- [Haiku](https://www.haiku.ai/) Design components that snap into any codebase
 - [Sketch](https://www.sketchapp.com/) Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
 - [Dribbble](https://dribbble.com/) Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals
 - [gif brewery](http://gifbrewery.com/) Easy to create GIF
