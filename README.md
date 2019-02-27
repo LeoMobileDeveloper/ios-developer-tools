@@ -63,6 +63,8 @@ to be accessed and controlled from a single terminal.
 - [iOS Console](http://lemonjar.com/iosconsole/) iOS Console allows you to view iOS console logs directly from your Mac
 - [iSimulator](https://github.com/wigl/iSimulator) iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
 - [DoraemonKit](https://github.com/didi/DoraemonKit) A full-featured App (iOS & Android) development assistant.
+- [NWPusher](https://github.com/noodlewerk/NWPusher) OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
+
 
 ## Project Analyze
 
@@ -109,6 +111,10 @@ to be accessed and controlled from a single terminal.
 - [Ninja](https://ninja-build.org/) Ninja is a small build system with a focus on speed
 - [emscripten](https://github.com/kripken/emscripten) An LLVM-to-JavaScript Compiler
 
+## Test
+
+- [TestFlight](https://developer.apple.com/testflight/) TestFlight makes it easy to invite users to test your apps and collect valuable feedback before releasing your apps on the App Store. 
+
 ## Apple
 
 - [App Store Promote](https://developer.apple.com//contact/app-store/promote/)
@@ -118,6 +124,7 @@ to be accessed and controlled from a single terminal.
 - [Apple System Status](https://developer.apple.com/system-status/) 
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
     - [Simplified Chinese](https://developer.apple.com/cn/app-store/review/guidelines/)
+
 
 ## Other
 
@@ -135,7 +142,6 @@ to be accessed and controlled from a single terminal.
 - [Sketch](https://www.sketchapp.com/) Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
 - [Dribbble](https://dribbble.com/) Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals
 - [gif brewery](http://gifbrewery.com/) Easy to create GIF
-- [NWPusher](https://github.com/noodlewerk/NWPusher) OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
 - [jazzy](https://github.com/realm/jazzy) Soulful docs for Swift & Objective-C
 - [ImageOptim](https://imageoptim.com/mac) ImageOptim makes images load faster
 - [TinyPng.com](https://tinypng.com/) Smart PNG and JPEG compression
