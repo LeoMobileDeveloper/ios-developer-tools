@@ -2,6 +2,10 @@
 
 A collection of tools that an iOS developer should know.
 
+## Community
+
+- [stackoverflow](https://stackoverflow.com/) Stack Overflow is a question and answer site for professional and enthusiast programmers.
+
 ## IDE
 
 - [Xcode](https://developer.apple.com/xcode/) you will spend most of your time with it 
