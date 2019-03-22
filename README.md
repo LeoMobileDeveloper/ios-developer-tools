@@ -1,6 +1,20 @@
-# ios-developer-tools
+## Contents
 
-A collection of tools that an iOS developer should know.
+- [Website](#website)
+- [IDE](#ide)
+- [Dependency Manager](#dependency-manager)
+- [Platform](#platform)
+- [Command Line Tool](#command-line-tool)
+- [DEBUG](#debug)
+- [Project Analyze](#project-analyze)
+- [Network](#network)
+- [Data](#data) 
+- [Compiler](#compiler)
+- [Test](#test)
+- [Reverse engineering](#reverse-engineering)
+- [App Guard](#app-guard)
+- [Other](#other)
+
 
 ## Website
 
@@ -9,6 +23,16 @@ A collection of tools that an iOS developer should know.
 - [objc.io](https://www.objc.io/) objc.io publishes books, videos, and articles on advanced techniques for iOS and macOS development.
 - [nshipster](https://nshipster.com/) NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.
 - [raywenderlich](https://www.raywenderlich.com/ios/) Learn iOS development in Swift.
+
+### Apple
+
+- [App Store Promote](https://developer.apple.com//contact/app-store/promote/)
+- [Expedited App Review](https://developer.apple.com/contact/app-store/)
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
+- [Optimizing for App Store Search](https://developer.apple.com/app-store/search/)
+- [Apple System Status](https://developer.apple.com/system-status/) 
+- [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+    - [Simplified Chinese](https://developer.apple.com/cn/app-store/review/guidelines/)
 
 ## IDE
 
@@ -125,40 +149,6 @@ to be accessed and controlled from a single terminal.
 
 - [TestFlight](https://developer.apple.com/testflight/) TestFlight makes it easy to invite users to test your apps and collect valuable feedback before releasing your apps on the App Store. 
 
-## Apple
-
-- [App Store Promote](https://developer.apple.com//contact/app-store/promote/)
-- [Expedited App Review](https://developer.apple.com/contact/app-store/)
-- [Apple Design Resources](https://developer.apple.com/design/resources/)
-- [Optimizing for App Store Search](https://developer.apple.com/app-store/search/)
-- [Apple System Status](https://developer.apple.com/system-status/) 
-- [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
-    - [Simplified Chinese](https://developer.apple.com/cn/app-store/review/guidelines/)
-
-
-## Other
-
-- [Jenkins](https://jenkins.io/index.html) Continuous integration (CI)
-- [GitLabCI](https://about.gitlab.com/features/gitlab-ci-cd/) CI in gitlab
-- [danger](https://github.com/danger/danger) Formalize your Pull Request etiquette.
-- [fastlane](https://github.com/fastlane/fastlane) Automate building and releasing your iOS and Android apps 
-- [appledoc](http://gentlebytes.com/appledoc/) Objective-C API documentation generator 
-- [Source Tree](http://www.sourcetreeapp.com/) Harness the power of Git and Hg in a beautifully simple application
-- [gitkraken](https://www.gitkraken.com/) The legendary Git GUI client for Windows, Mac and Linux
-- [PaintCode](https://www.paintcodeapp.com/) Turn drawings into code.
-- [reflector](http://www.airsquirrels.com/reflector/) wireless mirroring and streaming receiver 
-- [Sketch](https://www.sketchapp.com/) Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
-- [Haiku](https://www.haiku.ai/) Design components that snap into any codebase
-- [Sketch](https://www.sketchapp.com/) Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
-- [Dribbble](https://dribbble.com/) Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals
-- [gif brewery](http://gifbrewery.com/) Easy to create GIF
-- [jazzy](https://github.com/realm/jazzy) Soulful docs for Swift & Objective-C
-- [ImageOptim](https://imageoptim.com/mac) ImageOptim makes images load faster
-- [TinyPng.com](https://tinypng.com/) Smart PNG and JPEG compression
-- [OOMDetector](https://github.com/Tencent/OOMDetector) OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
-- [lottie-ios](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations 
-- [public-apis](https://github.com/toddmotto/public-apis) A collective list of public JSON APIs。
-
 ## Reverse engineering
 
 - [canijailbreak](https://canijailbreak.com/) jailbreak tools
@@ -197,3 +187,27 @@ to be accessed and controlled from a single terminal.
 - [obfuscator](https://github.com/obfuscator-llvm/obfuscator) obfuscator
 - [Obfuscator-iOS](https://github.com/pjebs/Obfuscator-iOS) Secure your app by obfuscating all the hard-coded security-sensitive strings.
 - [swiftshield](https://github.com/rockbruno/swiftshield) Swift Obfuscator that protects iOS apps against reverse engineering attacks.
+
+
+## Other
+
+- [Jenkins](https://jenkins.io/index.html) Continuous integration (CI)
+- [GitLabCI](https://about.gitlab.com/features/gitlab-ci-cd/) CI in gitlab
+- [danger](https://github.com/danger/danger) Formalize your Pull Request etiquette.
+- [fastlane](https://github.com/fastlane/fastlane) Automate building and releasing your iOS and Android apps 
+- [appledoc](http://gentlebytes.com/appledoc/) Objective-C API documentation generator 
+- [Source Tree](http://www.sourcetreeapp.com/) Harness the power of Git and Hg in a beautifully simple application
+- [gitkraken](https://www.gitkraken.com/) The legendary Git GUI client for Windows, Mac and Linux
+- [PaintCode](https://www.paintcodeapp.com/) Turn drawings into code.
+- [reflector](http://www.airsquirrels.com/reflector/) wireless mirroring and streaming receiver 
+- [Sketch](https://www.sketchapp.com/) Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
+- [Haiku](https://www.haiku.ai/) Design components that snap into any codebase
+- [Sketch](https://www.sketchapp.com/) Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
+- [Dribbble](https://dribbble.com/) Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals
+- [gif brewery](http://gifbrewery.com/) Easy to create GIF
+- [jazzy](https://github.com/realm/jazzy) Soulful docs for Swift & Objective-C
+- [ImageOptim](https://imageoptim.com/mac) ImageOptim makes images load faster
+- [TinyPng.com](https://tinypng.com/) Smart PNG and JPEG compression
+- [OOMDetector](https://github.com/Tencent/OOMDetector) OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
+- [lottie-ios](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations 
+- [public-apis](https://github.com/toddmotto/public-apis) A collective list of public JSON APIs。
