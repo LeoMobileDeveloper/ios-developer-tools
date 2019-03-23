@@ -188,9 +188,9 @@ to be accessed and controlled from a single terminal.
 - [Obfuscator-iOS](https://github.com/pjebs/Obfuscator-iOS) Secure your app by obfuscating all the hard-coded security-sensitive strings.
 - [swiftshield](https://github.com/rockbruno/swiftshield) Swift Obfuscator that protects iOS apps against reverse engineering attacks.
 
-
 ## Other
 
+- [Alfred](https://www.alfredapp.com/) Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more. 
 - [Jenkins](https://jenkins.io/index.html) Continuous integration (CI)
 - [GitLabCI](https://about.gitlab.com/features/gitlab-ci-cd/) CI in gitlab
 - [danger](https://github.com/danger/danger) Formalize your Pull Request etiquette.
