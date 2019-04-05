@@ -149,6 +149,7 @@ to be accessed and controlled from a single terminal.
 ## Test
 
 - [TestFlight](https://developer.apple.com/testflight/) TestFlight makes it easy to invite users to test your apps and collect valuable feedback before releasing your apps on the App Store. 
+- [appium](http://appium.io/) Appium is an open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol.
 
 ## Reverse engineering
 
