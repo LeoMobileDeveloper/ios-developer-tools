@@ -152,7 +152,7 @@ to be accessed and controlled from a single terminal.
 - [appium](http://appium.io/) Appium is an open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol.
 - [FBSnapshotTestCase](https://github.com/facebookarchive/ios-snapshot-test-case) Snapshot view unit tests for iOS
 - [Kiwi](https://github.com/kiwi-bdd/Kiwi) Simple BDD for iOS
-
+- [Quick](https://github.com/Quick/Quick) The Swift (and Objective-C) testing framework.
 
 ## Reverse engineering
 
