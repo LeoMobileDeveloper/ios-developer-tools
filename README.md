@@ -154,6 +154,7 @@ to be accessed and controlled from a single terminal.
 - [FBSnapshotTestCase](https://github.com/facebookarchive/ios-snapshot-test-case) Snapshot view unit tests for iOS
 - [Kiwi](https://github.com/kiwi-bdd/Kiwi) Simple BDD for iOS
 - [Quick](https://github.com/Quick/Quick) The Swift (and Objective-C) testing framework.
+- [OCMock](https://github.com/erikdoe/ocmock) Mock objects for Objective-C
 
 ## Reverse engineering
 
