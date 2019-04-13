@@ -158,6 +158,7 @@ to be accessed and controlled from a single terminal.
 - [Quick](https://github.com/Quick/Quick) The Swift (and Objective-C) testing framework.
 - [OCMock](https://github.com/erikdoe/ocmock) Mock objects for Objective-C
 - [KIF](https://github.com/kif-framework/KIF) Keep It Functional - An iOS Functional Testing Framework
+- [Specta](https://github.com/specta/specta) A light-weight TDD / BDD framework for Objective-C.
 
 ## Reverse engineering
 
