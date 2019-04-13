@@ -33,6 +33,7 @@
 - [Apple System Status](https://developer.apple.com/system-status/) 
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
     - [Simplified Chinese](https://developer.apple.com/cn/app-store/review/guidelines/)
+- [Auto-renewable Subscriptions](https://developer.apple.com/app-store/subscriptions/)
 
 ## IDE
 
