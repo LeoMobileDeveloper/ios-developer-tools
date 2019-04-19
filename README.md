@@ -24,6 +24,7 @@
 - [nshipster](https://nshipster.com/) NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.
 - [raywenderlich](https://www.raywenderlich.com/ios/) Learn iOS development in Swift.
 
+
 ### Apple
 
 - [App Store Promote](https://developer.apple.com//contact/app-store/promote/)
@@ -228,4 +229,4 @@ to be accessed and controlled from a single terminal.
 - [lottie-ios](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations 
 - [public-apis](https://github.com/toddmotto/public-apis) A collective list of public JSON APIs。
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) A cross-platform protocol library to communicate with iOS devices
-
+- [Smartmockups](https://smartmockups.com/) Free product mockup generator
