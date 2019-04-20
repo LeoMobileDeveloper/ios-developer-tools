@@ -88,6 +88,7 @@ to be accessed and controlled from a single terminal.
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 - [PonyDebugger](https://github.com/square/PonyDebugger)Remote network and data debugging for your native iOS app using Chrome Developer Tools
 - [dSYMTools](https://github.com/answer-huang/dSYMTools) Analyze crash log with DSYM file
+- [Hexspeak](https://en.m.wikipedia.org/wiki/Hexspeak) Table about exception code in crash log 
 - [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
 - [FLEX](https://github.com/Flipboard/FLEX) An in-app debugging and exploration tool for iOS
 - [GodEye](https://github.com/zixun/GodEye) Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
