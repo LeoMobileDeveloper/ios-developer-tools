@@ -194,6 +194,7 @@ to be accessed and controlled from a single terminal.
 - [MachO-Kit](https://github.com/DeVaukz/MachO-Kit) A C/Objective-C library for parsing Mach-O files.
 - [insert_dylib](https://github.com/Tyilo/insert_dylib) Command line utility for inserting a dylib load command into a Mach-O binary
 - [yololib](https://github.com/KJCracks/yololib) dylib injector for mach-o binaries
+- [dyld_cache_extract](https://github.com/macmade/dyld_cache_extract) A macOS utility to extract dynamic libraries from the dyld_shared_cache of macOS and iOS
 
 ## App Guard
 
