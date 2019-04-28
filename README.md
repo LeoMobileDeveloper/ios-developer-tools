@@ -102,6 +102,7 @@ to be accessed and controlled from a single terminal.
 - [iSimulator](https://github.com/wigl/iSimulator) iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
 - [DoraemonKit](https://github.com/didi/DoraemonKit) A full-featured App (iOS & Android) development assistant.
 - [NWPusher](https://github.com/noodlewerk/NWPusher) OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
+- [Knuff](https://github.com/KnuffApp/Knuff) The debug application for Apple Push Notification Service (APNs).
 - [matrix](https://github.com/Tencent/matrix) Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [Hexspeak](https://en.m.wikipedia.org/wiki/Hexspeak) termination code detail in crash log 
 - [PLCrashReporter](https://www.plcrashreporter.org/) Reliable, open-source crash reporting for iOS and Mac OS X.
