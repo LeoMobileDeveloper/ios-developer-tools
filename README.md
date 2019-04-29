@@ -50,6 +50,7 @@
 - [CocoaPods](http://cocoapods.org/) dependency manager for Swift and Objective-C Cocoa projects
     - [cocoapods-dependencies](https://github.com/segiddins/cocoapods-dependencies) Shows a project's CocoaPods dependency graph
 - [Carthage](https://github.com/Carthage/Carthage) A simple, decentralized dependency manager for Cocoa
+- [Accio](https://github.com/JamitLabs/Accio) A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
 
 ## Platform
 
