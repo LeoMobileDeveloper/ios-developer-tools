@@ -237,3 +237,4 @@ to be accessed and controlled from a single terminal.
 - [public-apis](https://github.com/toddmotto/public-apis) A collective list of public JSON APIs。
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) A cross-platform protocol library to communicate with iOS devices
 - [Smartmockups](https://smartmockups.com/) Free product mockup generator
+- [flaticon](https://www.flaticon.com/) 1,695,000 vector icons grouped in 35,450 packs
