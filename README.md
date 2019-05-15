@@ -240,3 +240,4 @@ to be accessed and controlled from a single terminal.
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) A cross-platform protocol library to communicate with iOS devices
 - [Smartmockups](https://smartmockups.com/) Free product mockup generator
 - [flaticon](https://www.flaticon.com/) 1,695,000 vector icons grouped in 35,450 packs
+- [Semaphore CI for iOS](https://semaphoreci.com/product/ios) Semaphore is the fastest way to test and deploy iOS apps.
