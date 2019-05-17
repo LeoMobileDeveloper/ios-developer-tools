@@ -96,6 +96,7 @@ to be accessed and controlled from a single terminal.
 - [Hexspeak](https://en.m.wikipedia.org/wiki/Hexspeak) Table about exception code in crash log 
 - [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
 - [FLEX](https://github.com/Flipboard/FLEX) An in-app debugging and exploration tool for iOS
+- [MTHawkeye](https://github.com/meitu/MTHawkeye) Profiling / Debugging assist tools for iOS.
 - [GodEye](https://github.com/zixun/GodEye) Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
 - [injectionforxcode](https://github.com/johnno1962/injectionforxcode) Injection for Xcode is an Xcode plugin (available via Alcatraz) or AppCode that dynamically inserts new Swift / Objective-C code into a running app in order to speed up your build process
 - [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole) In-App debug console for your UIWebView & WKWebView
