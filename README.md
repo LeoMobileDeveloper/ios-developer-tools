@@ -170,6 +170,7 @@ to be accessed and controlled from a single terminal.
 - [KIF](https://github.com/kif-framework/KIF) Keep It Functional - An iOS Functional Testing Framework
 - [Specta](https://github.com/specta/specta) A light-weight TDD / BDD framework for Objective-C.
 - [EarlGrey](https://github.com/google/EarlGrey) 🍵 iOS UI Automation Test Framework 
+- [SwiftMonkey](https://github.com/zalando/SwiftMonkey) A framework for doing randomised UI testing of iOS apps
 
 ## Reverse engineering
 
