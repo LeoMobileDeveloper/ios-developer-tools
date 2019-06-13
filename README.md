@@ -84,6 +84,7 @@ to be accessed and controlled from a single terminal.
 - [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) A code library and command-line formatting tool for reformatting Swift code
 - [SwiftRewriter](https://github.com/inamiy/SwiftRewriter) 📝 Swift code formatter using SwiftSyntax.
 - [ios-deploy](https://github.com/ios-control/ios-deploy) Install and debug iPhone apps from the command line, without using Xcode
+- objdump llvm object file dumper
 
 ## DEBUG
 
