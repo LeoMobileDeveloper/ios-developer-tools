@@ -85,6 +85,7 @@ to be accessed and controlled from a single terminal.
 - [SwiftRewriter](https://github.com/inamiy/SwiftRewriter) 📝 Swift code formatter using SwiftSyntax.
 - [ios-deploy](https://github.com/ios-control/ios-deploy) Install and debug iPhone apps from the command line, without using Xcode
 - objdump llvm object file dumper
+- [XcodeGen](https://github.com/yonaskolb/XcodeGen) A Swift command line tool for generating your Xcode project
 
 ## DEBUG
 
