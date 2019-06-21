@@ -216,6 +216,7 @@ to be accessed and controlled from a single terminal.
 - [obfuscator](https://github.com/obfuscator-llvm/obfuscator) obfuscator
 - [Obfuscator-iOS](https://github.com/pjebs/Obfuscator-iOS) Secure your app by obfuscating all the hard-coded security-sensitive strings.
 - [swiftshield](https://github.com/rockbruno/swiftshield) Swift Obfuscator that protects iOS apps against reverse engineering attacks.
+- [MachObfuscator](https://github.com/kam800/MachObfuscator) MachObfuscator is a programming-language-agnostic Mach-O apps obfuscator for Apple platforms.
 
 ## Image
 
