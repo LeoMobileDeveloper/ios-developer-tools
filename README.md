@@ -179,6 +179,7 @@ to be accessed and controlled from a single terminal.
 
 ## Reverse engineering
 
+- [IPSW](https://ipsw.me/) Download current and previous versions of Apple's iOS Firmware and receive notifications when new firmwares are released.
 - [canijailbreak](https://canijailbreak.com/) jailbreak tools
 - [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 - [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
