@@ -213,6 +213,7 @@ to be accessed and controlled from a single terminal.
 - [dyld_cache_extract](https://github.com/macmade/dyld_cache_extract) A macOS utility to extract dynamic libraries from the dyld_shared_cache of macOS and iOS
 - [app2dylib](https://github.com/tobefuturer/app2dylib) A reverse engineering tool to convert iOS app to dylib
 - [apple configuration2](https://apps.apple.com/cn/app/apple-configurator-2/id1037126344?l=en&mt=12) Download ipa file from App Store
+- [iphonecake.com](http://www.iphonecake.com) Cracked iOS & Mac App Store
 
 ## App Guard
 
