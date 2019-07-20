@@ -214,6 +214,7 @@ to be accessed and controlled from a single terminal.
 - [app2dylib](https://github.com/tobefuturer/app2dylib) A reverse engineering tool to convert iOS app to dylib
 - [apple configuration2](https://apps.apple.com/cn/app/apple-configurator-2/id1037126344?l=en&mt=12) Download ipa file from App Store
 - [iphonecake.com](http://www.iphonecake.com) Cracked iOS & Mac App Store
+- [optool](https://github.com/alexzielenski/optool) optool is a tool which interfaces with MachO binaries in order to insert/remove load commands, strip code signatures, resign, and remove aslr. Below is its help.
 
 ## App Guard
 
