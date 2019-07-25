@@ -135,6 +135,7 @@ to be accessed and controlled from a single terminal.
 - [objc_dep](https://github.com/nst/objc_dep) Graph the import dependencies in an Objective-C project
 - [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) An app that lets you open .car files and browse/extract their images.
 - [periphery](https://github.com/peripheryapp/periphery) Eliminate Unused Swift Code.
+- [fui](https://github.com/dblock/fui) Find unused Objective-C imports.
 
 ## Network
 
