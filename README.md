@@ -257,3 +257,5 @@ to be accessed and controlled from a single terminal.
 - [flaticon](https://www.flaticon.com/) 1,695,000 vector icons grouped in 35,450 packs
 - [Semaphore CI for iOS](https://semaphoreci.com/product/ios) Semaphore is the fastest way to test and deploy iOS apps.
 - [ios app maximum memory budget](https://stackoverflow.com/questions/5887248/ios-app-maximum-memory-budget/15200855#15200855) ios app maximum memory budget
+- [draw.io](https://draw.io) draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+
