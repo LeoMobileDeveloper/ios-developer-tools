@@ -140,6 +140,7 @@ to be accessed and controlled from a single terminal.
 ## Network
 
 - [Charles](https://www.charlesproxy.com/) Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
+- [Proxyman](https://proxyman.io) Proxyman 👨‍🚀 is a high-performance macOS app, which enables developers to view HTTP/HTTPS requests from apps and domains. Support iOS Simulator and iOS devices. Easy to use and user friendly.
 - [Postman](https://www.getpostman.com/) Faster, easier API development 
 - [iperf](https://github.com/esnet/iperf) iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
 - [Lantern](https://github.com/getlantern/lantern) Lantern delivers fast access to the open Internet
