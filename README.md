@@ -200,6 +200,7 @@ to be accessed and controlled from a single terminal.
 - [Hikari](https://github.com/HikariObfuscator/Hikari) LLVM Obfuscator https://keybase.io/team/hikari
 - [Clutch](https://github.com/KJCracks/Clutch) Fast iOS executable dumper
 - [otool](https://www.unix.com/man-page/osx/1/otool/) The otool command displays specified parts of object files or libraries. It can also disassemble:
+- [xxd](https://ss64.com/osx/xxd.html) xxd creates a hex dump of a given file or standard input. It can also convert a hex dump back to its original binary form
 - [nm](http://unixhelp.ed.ac.uk/CGI/man-cgi?nm) nm is a utility that displays the symbol table of a given binary.
 - [jtool](http://www.newosxbook.com/tools/jtool.html) The jtool command is meant to meet and exceed the functionality to XCode's otool(1), picking up along the way additional Mach-O commands such as atos(1), dyldinfo(1), nm(1), segedit(1), pagestuff(1), strings(1) , and even codesign(1) and the informal ldid. 
 - [capstone](https://github.com/aquynh/capstone) Capstone disassembly/disassembler framework
