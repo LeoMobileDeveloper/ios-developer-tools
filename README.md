@@ -115,6 +115,7 @@ to be accessed and controlled from a single terminal.
 - [matrix](https://github.com/Tencent/matrix) Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [Hexspeak](https://en.m.wikipedia.org/wiki/Hexspeak) termination code detail in crash log 
 - [PLCrashReporter](https://www.plcrashreporter.org/) Reliable, open-source crash reporting for iOS and Mac OS X.
+- [KSCrash](https://github.com/kstenerud/KSCrash) The Ultimate iOS Crash Reporter
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS) In-app design review tool to inspect measurements, attributes, and animations.
 
