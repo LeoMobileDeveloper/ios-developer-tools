@@ -86,6 +86,8 @@ to be accessed and controlled from a single terminal.
 - [ios-deploy](https://github.com/ios-control/ios-deploy) Install and debug iPhone apps from the command line, without using Xcode
 - objdump llvm object file dumper
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen) A Swift command line tool for generating your Xcode project
+- [plutil](https://www.theiphonewiki.com/wiki/Plutil) plutil is a program that can convert .plist files between a binary version and an XML version. Currently, there are two versions of this utility.
+
 
 ## DEBUG
 
