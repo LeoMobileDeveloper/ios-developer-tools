@@ -120,6 +120,7 @@ to be accessed and controlled from a single terminal.
 - [KSCrash](https://github.com/kstenerud/KSCrash) The Ultimate iOS Crash Reporter
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS) In-app design review tool to inspect measurements, attributes, and animations.
+- [LookinServer](https://github.com/QMUI/LookinServer) Free macOS app for iOS view debugging
 
 ## Project Analyze
 
