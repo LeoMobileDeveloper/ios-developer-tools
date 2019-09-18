@@ -100,8 +100,6 @@ to be accessed and controlled from a single terminal.
 - [PonyDebugger](https://github.com/square/PonyDebugger)Remote network and data debugging for your native iOS app using Chrome Developer Tools
 - [dSYMTools](https://github.com/answer-huang/dSYMTools) Analyze crash log with DSYM file
 - [Hexspeak](https://en.m.wikipedia.org/wiki/Hexspeak) Table about exception code in crash log 
-- [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
-- [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) iOS tool that helps with profiling iOS Memory usage.
 - [FLEX](https://github.com/Flipboard/FLEX) An in-app debugging and exploration tool for iOS
 - [MTHawkeye](https://github.com/meitu/MTHawkeye) Profiling / Debugging assist tools for iOS.
 - [GodEye](https://github.com/zixun/GodEye) Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
@@ -122,6 +120,13 @@ to be accessed and controlled from a single terminal.
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS) In-app design review tool to inspect measurements, attributes, and animations.
 - [LookinServer](https://github.com/QMUI/LookinServer) Free macOS app for iOS view debugging
+
+### Memory 
+
+- [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
+- [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) iOS tool that helps with profiling iOS Memory usage.
+- [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) iOS library that helps tracking all allocated Objective-C objects
+- [OOMDetector](https://github.com/Tencent/OOMDetector) OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
 
 ## Project Analyze
 
@@ -259,7 +264,6 @@ to be accessed and controlled from a single terminal.
 - [Dribbble](https://dribbble.com/) Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals
 - [gif brewery](http://gifbrewery.com/) Easy to create GIF
 - [jazzy](https://github.com/realm/jazzy) Soulful docs for Swift & Objective-C
-- [OOMDetector](https://github.com/Tencent/OOMDetector) OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
 - [lottie-ios](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations 
 - [public-apis](https://github.com/toddmotto/public-apis) A collective list of public JSON APIs。
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) A cross-platform protocol library to communicate with iOS devices
