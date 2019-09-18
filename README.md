@@ -101,6 +101,7 @@ to be accessed and controlled from a single terminal.
 - [dSYMTools](https://github.com/answer-huang/dSYMTools) Analyze crash log with DSYM file
 - [Hexspeak](https://en.m.wikipedia.org/wiki/Hexspeak) Table about exception code in crash log 
 - [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
+- [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) iOS tool that helps with profiling iOS Memory usage.
 - [FLEX](https://github.com/Flipboard/FLEX) An in-app debugging and exploration tool for iOS
 - [MTHawkeye](https://github.com/meitu/MTHawkeye) Profiling / Debugging assist tools for iOS.
 - [GodEye](https://github.com/zixun/GodEye) Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
