@@ -232,6 +232,7 @@ to be accessed and controlled from a single terminal.
 - [iphonecake.com](http://www.iphonecake.com) Cracked iOS & Mac App Store
 - [optool](https://github.com/alexzielenski/optool) optool is a tool which interfaces with MachO binaries in order to insert/remove load commands, strip code signatures, resign, and remove aslr. Below is its help.
 - [Macholib](https://macholib.readthedocs.io/en/latest/) macholib can be used to analyze and edit Mach-O headers, the executable format used by Mac OS X.
+- [fishhook](https://github.com/facebook/fishhook) A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS. You can use fishhook to hook C function.
 
 ## App Guard
 
