@@ -67,6 +67,7 @@ user authentication, push notifications, dashboard and more out of the box.
 
 - [xcodebuild](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/xcodebuild.1.html) and - [xcrun](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/xcrun.1.html) command line tool to build and archive app
 - [xctool](https://github.com/facebook/xctool) An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
+- [idb](https://github.com/facebook/idb) idb is a flexible command line interface for automating iOS simulators and devices
 - [xcbuild](https://github.com/facebook/xcbuild) xcbuild is an Xcode-compatible build tool with the goal of providing faster builds, better documentation of the build process and running on multiple platforms (macOS, Linux, and Windows)
 - [synx](https://github.com/venmo/synx) A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
 - [Kin](https://github.com/Karumi/Kin) Simple PBXProj Verifier (If you has problem to git merge the project.pbxproj file)
