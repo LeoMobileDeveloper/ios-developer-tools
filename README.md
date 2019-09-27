@@ -178,6 +178,7 @@ to be accessed and controlled from a single terminal.
 - [Ninja](https://ninja-build.org/) Ninja is a small build system with a focus on speed
 - [emscripten](https://github.com/kripken/emscripten) An LLVM-to-JavaScript Compiler
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) Build Time Analyzer for Swift
+- [SourceKitten](https://github.com/jpsim/SourceKitten) An adorable little framework and command line tool for interacting with SourceKit.
 
 ## Test
 
