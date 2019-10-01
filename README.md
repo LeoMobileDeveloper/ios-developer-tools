@@ -13,6 +13,7 @@
 - [Test](#test)
 - [Reverse engineering](#reverse-engineering)
 - [App Guard](#app-guard)
+- [Chrome Extension](#chrome)
 - [Other](#other)
 
 
@@ -249,6 +250,10 @@ to be accessed and controlled from a single terminal.
 - [cwebp](https://developers.google.com/speed/webp/docs/cwebp) Compress an image file to a WebP file
 - [ImageOptim](https://imageoptim.com/mac) ImageOptim makes images load faster
 - [TinyPng.com](https://tinypng.com/) Smart PNG and JPEG compression
+
+## Chrome
+
+- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) Make your computer run smoothly by suspending the tabs you aren't using
 
 ## Other
 
