@@ -149,6 +149,7 @@ to be accessed and controlled from a single terminal.
 - [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) An app that lets you open .car files and browse/extract their images.
 - [periphery](https://github.com/peripheryapp/periphery) Eliminate Unused Swift Code.
 - [fui](https://github.com/dblock/fui) Find unused Objective-C imports.
+- [objc_cover](https://github.com/nst/objc_cover) Quick Python script over otool to help spotting potentially unused methods in Objective-C Mach-O executable files
 
 ## Network
 
