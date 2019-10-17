@@ -209,6 +209,7 @@ to be accessed and controlled from a single terminal.
 - [iPhoneDevWiki](http://iphonedevwiki.net/index.php/Main_Page) Wiki about jailbroken iOS development
 - [Hopper Disassembler](https://www.hopperapp.com/) Reverse engineering tool that lets you disassemble, decompile and debug your applications. 
 - [MachOView](https://github.com/gdbinit/MachOView) View the raw data of mach-o(iOS executable file format)
+- [ruby-macho](https://github.com/Homebrew/ruby-macho) 🔩 A pure-Ruby library for parsing Mach-O files.
 - [frida](https://www.frida.re/) Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [cycript](http://www.cycript.org/) Cycript allows developers to explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript syntax through an interactive console that features syntax highlighting and tab completion.
 - [dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.
