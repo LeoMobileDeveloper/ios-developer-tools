@@ -55,6 +55,7 @@
     - [cocoapods-dependencies](https://github.com/segiddins/cocoapods-dependencies) Shows a project's CocoaPods dependency graph
     - [cocoapods-amimono](https://github.com/Ruenzuo/cocoapods-amimono) Move all dynamic frameworks symbols into the main executable.
     - [cocoapods-packager](https://github.com/CocoaPods/cocoapods-packager) CocoaPods plugin which allows you to generate a static library from a podspec.
+    - [cocoapods-static-swift-framework](https://github.com/leavez/cocoapods-static-swift-framework) A cocoapods plugin enables static framework for all pods
 - [Carthage](https://github.com/Carthage/Carthage) A simple, decentralized dependency manager for Cocoa
 - [Accio](https://github.com/JamitLabs/Accio) A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
 
