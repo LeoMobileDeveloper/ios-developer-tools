@@ -24,7 +24,7 @@
 - [objc.io](https://www.objc.io/) objc.io publishes books, videos, and articles on advanced techniques for iOS and macOS development.
 - [nshipster](https://nshipster.com/) NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.
 - [raywenderlich](https://www.raywenderlich.com/ios/) Learn iOS development in Swift.
-
+- [medium](https://medium.com/ios-os-x-development) Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
 ### Apple
 
