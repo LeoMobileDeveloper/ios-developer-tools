@@ -125,6 +125,7 @@ to be accessed and controlled from a single terminal.
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
 - [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS) In-app design review tool to inspect measurements, attributes, and animations.
 - [LookinServer](https://github.com/QMUI/LookinServer) Free macOS app for iOS view debugging
+- [LayoutInspector](https://github.com/isavynskyi/LayoutInspector) Tool to debug layouts directly on iOS devices: inspect layers in 3D and debug each visible view attributes
 
 ### Memory 
 
