@@ -133,6 +133,7 @@ to be accessed and controlled from a single terminal.
 - [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) iOS tool that helps with profiling iOS Memory usage.
 - [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) iOS library that helps tracking all allocated Objective-C objects
 - [OOMDetector](https://github.com/Tencent/OOMDetector) OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
+- [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) Find retain cycles / memory leaks sooner
 
 ## Project Analyze
 
