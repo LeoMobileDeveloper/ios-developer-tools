@@ -126,6 +126,7 @@ to be accessed and controlled from a single terminal.
 - [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS) In-app design review tool to inspect measurements, attributes, and animations.
 - [LookinServer](https://github.com/QMUI/LookinServer) Free macOS app for iOS view debugging
 - [LayoutInspector](https://github.com/isavynskyi/LayoutInspector) Tool to debug layouts directly on iOS devices: inspect layers in 3D and debug each visible view attributes
+- [XCLogParser](https://github.com/spotify/XCLogParser) Tool to parse the SLF serialization format used by Xcode and xcodebuild to store its Build and Test logs (xcactivitylog).
 
 ### Memory 
 
