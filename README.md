@@ -99,6 +99,7 @@ to be accessed and controlled from a single terminal.
 - [Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html) Instruments is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. 
     - [gtm_load_timer](https://github.com/google/gtm_load_timer) A framework and instrument for timing Objective C +load messages.
     - [speedscope](https://github.com/jlfwong/speedscope) Flame graphs of Time Profiler
+- [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) Set of easy to use debugging tools for iOS developers & QA engineers.
 - [Flipper](https://fbsonar.com/) Flipper is a platform for debugging mobile apps on iOS and Android. Visualize, inspect, and control your apps from a simple desktop interface. Use Flipper as is or extend it using the plugin API.
 - [chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) A fast & simple, yet powerful & flexible logging framework for Mac and iOS
