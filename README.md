@@ -156,6 +156,7 @@ to be accessed and controlled from a single terminal.
 - [periphery](https://github.com/peripheryapp/periphery) Eliminate Unused Swift Code.
 - [fui](https://github.com/dblock/fui) Find unused Objective-C imports.
 - [objc_cover](https://github.com/nst/objc_cover) Quick Python script over otool to help spotting potentially unused methods in Objective-C Mach-O executable files
+- [Pecker](https://github.com/woshiccm/Pecker.git) A tool to detect unused Swift code based on [IndexStoreDB](https://github.com/apple/indexstore-db.git) and [SwiftSyntax](https://github.com/apple/swift-syntax.git).
 
 ## Network
 
