@@ -245,6 +245,7 @@ to be accessed and controlled from a single terminal.
 - [optool](https://github.com/alexzielenski/optool) optool is a tool which interfaces with MachO binaries in order to insert/remove load commands, strip code signatures, resign, and remove aslr. Below is its help.
 - [Macholib](https://macholib.readthedocs.io/en/latest/) macholib can be used to analyze and edit Mach-O headers, the executable format used by Mac OS X.
 - [fishhook](https://github.com/facebook/fishhook) A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS. You can use fishhook to hook C function.
+- [iOS-System-Symbols](https://github.com/Zuikyo/iOS-System-Symbols) Share iOS system framework's symbol files. Useful for symbolicating iOS crash report.
 
 ## App Guard
 
