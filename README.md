@@ -170,6 +170,7 @@ to be accessed and controlled from a single terminal.
 - [netfox](https://github.com/kasketis/netfox) A lightweight, one line setup, iOS / OSX network debugging library! 🦊
 - [GCDWebServer](https://github.com/swisspol/GCDWebServer) GCDWebServer is a modern and lightweight GCD based HTTP 1.1 server designed to be embedded in iOS, macOS & tvOS apps.
 - [JSONLint](https://jsonlint.com/) JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format
+- [Wormholy](https://github.com/pmusolino/Wormholy) iOS network debugging
 
 ## Data
 
