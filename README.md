@@ -11,6 +11,7 @@
 - [Data](#data) 
 - [Compiler](#compiler)
 - [Test](#test)
+- [Localization](#localization)
 - [Reverse engineering](#reverse-engineering)
 - [App Guard](#app-guard)
 - [Chrome Extension](#chrome)
@@ -203,6 +204,10 @@ to be accessed and controlled from a single terminal.
 - [Specta](https://github.com/specta/specta) A light-weight TDD / BDD framework for Objective-C.
 - [EarlGrey](https://github.com/google/EarlGrey) 🍵 iOS UI Automation Test Framework 
 - [SwiftMonkey](https://github.com/zalando/SwiftMonkey) A framework for doing randomised UI testing of iOS apps
+
+## Localization
+
+- [Loca Studio](https://www.cunningo.com/locastudio/index.html) Analyze, review, and edit your app translations. Can directly open the Xcode Localization Catalog (xcloc) and XLIFF 1.2 file formats.
 
 ## Reverse engineering
 
