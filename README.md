@@ -93,7 +93,7 @@ to be accessed and controlled from a single terminal.
 - objdump llvm object file dumper
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen) A Swift command line tool for generating your Xcode project
 - [plutil](https://www.theiphonewiki.com/wiki/Plutil) plutil is a program that can convert .plist files between a binary version and an XML version. Currently, there are two versions of this utility.
-
+- [dsymutil](https://llvm.org/docs/CommandGuide/dsymutil.html) dsymutil links the DWARF debug information found in the object files for an executable executable by using debug symbols information contained in its symbol table. 
 
 ## DEBUG
 
