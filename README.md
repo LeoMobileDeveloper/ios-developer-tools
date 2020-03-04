@@ -207,6 +207,7 @@ to be accessed and controlled from a single terminal.
 - [Specta](https://github.com/specta/specta) A light-weight TDD / BDD framework for Objective-C.
 - [EarlGrey](https://github.com/google/EarlGrey) 🍵 iOS UI Automation Test Framework 
 - [SwiftMonkey](https://github.com/zalando/SwiftMonkey) A framework for doing randomised UI testing of iOS apps
+- [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) 📸 Delightful Swift snapshot testing
 
 ## Localization
 
