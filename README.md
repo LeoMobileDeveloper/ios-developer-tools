@@ -194,7 +194,7 @@ to be accessed and controlled from a single terminal.
 - [antlr4](https://github.com/antlr/antlr4) ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. http://antlr.org
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) Build Time Analyzer for Swift
 - [SourceKitten](https://github.com/jpsim/SourceKitten) An adorable little framework and command line tool for interacting with SourceKit.
-
+- [zld](https://github.com/michaeleisel/zld) A faster version of Apple's linker
 
 ## Test
 
