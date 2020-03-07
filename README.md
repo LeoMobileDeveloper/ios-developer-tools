@@ -95,6 +95,7 @@ to be accessed and controlled from a single terminal.
 - [plutil](https://www.theiphonewiki.com/wiki/Plutil) plutil is a program that can convert .plist files between a binary version and an XML version. Currently, there are two versions of this utility.
 - [dsymutil](https://llvm.org/docs/CommandGuide/dsymutil.html) dsymutil links the DWARF debug information found in the object files for an executable executable by using debug symbols information contained in its symbol table. 
 - [symboliccrash](https://developer.apple.com/library/archive/technotes/tn2151/_index.html) Symbolicating crash reports
+- [ArgumentParser](https://swift.org/blog/argument-parser/) Open-source library that makes it straightforward to parse command-line arguments in Swift
 
 ## DEBUG
 
