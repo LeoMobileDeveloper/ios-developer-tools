@@ -281,6 +281,7 @@ to be accessed and controlled from a single terminal.
 
 - [UTM](https://github.com/utmapp/UTM) Virtual machines for iOS
 - [Alfred](https://www.alfredapp.com/) Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more. 
+- [Bear](https://bear.app/) Bear is a beautiful, flexible writing app for crafting notes and prose.
 - [Jenkins](https://jenkins.io/index.html) Continuous integration (CI)
 - [GitLabCI](https://about.gitlab.com/features/gitlab-ci-cd/) CI in gitlab
 - [danger](https://github.com/danger/danger) Formalize your Pull Request etiquette.
