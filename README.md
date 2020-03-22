@@ -196,6 +196,7 @@ to be accessed and controlled from a single terminal.
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) Build Time Analyzer for Swift
 - [SourceKitten](https://github.com/jpsim/SourceKitten) An adorable little framework and command line tool for interacting with SourceKit.
 - [zld](https://github.com/michaeleisel/zld) A faster version of Apple's linker
+- [xcconfigs](https://github.com/xcconfigs/xcconfigs) Common Xcode configuration files/settings.
 
 ## Test
 
