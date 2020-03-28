@@ -89,7 +89,6 @@ to be accessed and controlled from a single terminal.
 - [autojump](https://github.com/wting/autojump) A cd command that learns - easily navigate directories from the command line
 - [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) A code library and command-line formatting tool for reformatting Swift code
 - [SwiftRewriter](https://github.com/inamiy/SwiftRewriter) 📝 Swift code formatter using SwiftSyntax.
-- [ios-deploy](https://github.com/ios-control/ios-deploy) Install and debug iPhone apps from the command line, without using Xcode
 - objdump llvm object file dumper
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen) A Swift command line tool for generating your Xcode project
 - [plutil](https://www.theiphonewiki.com/wiki/Plutil) plutil is a program that can convert .plist files between a binary version and an XML version. Currently, there are two versions of this utility.
@@ -212,6 +211,9 @@ to be accessed and controlled from a single terminal.
 - [SwiftMonkey](https://github.com/zalando/SwiftMonkey) A framework for doing randomised UI testing of iOS apps
 - [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) 📸 Delightful Swift snapshot testing
 - [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) Code coverage for Xcode projects (Objective-C only)
+- [ios-deploy](https://github.com/ios-control/ios-deploy) Install and debug iPhone apps from the command line, without using Xcode
+- [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) A cross-platform protocol library to communicate with iOS devices
+
 
 ## Localization
 
@@ -302,7 +304,6 @@ to be accessed and controlled from a single terminal.
 - [jazzy](https://github.com/realm/jazzy) Soulful docs for Swift & Objective-C
 - [lottie-ios](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations 
 - [public-apis](https://github.com/toddmotto/public-apis) A collective list of public JSON APIs。
-- [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) A cross-platform protocol library to communicate with iOS devices
 - [Smartmockups](https://smartmockups.com/) Free product mockup generator
 - [flaticon](https://www.flaticon.com/) 1,695,000 vector icons grouped in 35,450 packs
 - [Semaphore CI for iOS](https://semaphoreci.com/product/ios) Semaphore is the fastest way to test and deploy iOS apps.
