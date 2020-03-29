@@ -131,6 +131,7 @@ to be accessed and controlled from a single terminal.
 - [LayoutInspector](https://github.com/isavynskyi/LayoutInspector) Tool to debug layouts directly on iOS devices: inspect layers in 3D and debug each visible view attributes
 - [XCLogParser](https://github.com/spotify/XCLogParser) Tool to parse the SLF serialization format used by Xcode and xcodebuild to store its Build and Test logs (xcactivitylog).
 - [beyond compare](https://www.scootersoftware.com/download.php) Compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not.  Merge changes, synchronize files, and generate reports.
+- [restore-symbol](https://github.com/tobefuturer/restore-symbol) A reverse engineering tool to restore stripped symbol table for iOS app.
 
 ### Memory 
 
