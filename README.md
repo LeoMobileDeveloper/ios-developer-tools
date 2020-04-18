@@ -26,6 +26,7 @@
 - [nshipster](https://nshipster.com/) NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.
 - [raywenderlich](https://www.raywenderlich.com/ios/) Learn iOS development in Swift.
 - [medium](https://medium.com/ios-os-x-development) Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 🔗 Some useful websites for programmers.
 
 ### Apple
 
