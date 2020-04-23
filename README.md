@@ -217,7 +217,7 @@ to be accessed and controlled from a single terminal.
 - [ios-deploy](https://github.com/ios-control/ios-deploy) Install and debug iPhone apps from the command line, without using Xcode
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) A cross-platform protocol library to communicate with iOS devices
 - [usbmuxd](https://github.com/libimobiledevice/usbmuxd) A socket daemon to multiplex connections from and to iOS devices
-
+- [ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) Snapshot view unit tests for iOS
 
 ## Localization
 
