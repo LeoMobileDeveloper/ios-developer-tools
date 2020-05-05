@@ -266,6 +266,7 @@ to be accessed and controlled from a single terminal.
 - [Macholib](https://macholib.readthedocs.io/en/latest/) macholib can be used to analyze and edit Mach-O headers, the executable format used by Mac OS X.
 - [fishhook](https://github.com/facebook/fishhook) A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS. You can use fishhook to hook C function.
 - [iOS-System-Symbols](https://github.com/Zuikyo/iOS-System-Symbols) Share iOS system framework's symbol files. Useful for symbolicating iOS crash report.
+- [Synalyze It](https://www.synalysis.net/) Synalyze It! allows you to create a “grammar“ for your binary files interactively. Unlike in regular hex editors or viewers the files are interpreted automatically for you! Analysis of binary files has never been easier.
 
 ## App Guard
 
