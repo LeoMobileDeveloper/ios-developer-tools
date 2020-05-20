@@ -177,6 +177,7 @@ to be accessed and controlled from a single terminal.
 - [GCDWebServer](https://github.com/swisspol/GCDWebServer) GCDWebServer is a modern and lightweight GCD based HTTP 1.1 server designed to be embedded in iOS, macOS & tvOS apps.
 - [JSONLint](https://jsonlint.com/) JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format
 - [Wormholy](https://github.com/pmusolino/Wormholy) iOS network debugging
+- [Bagel](https://github.com/yagiz/Bagel) a little native network debugging tool for iOS
 
 ## Data
 
