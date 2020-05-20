@@ -178,6 +178,7 @@ to be accessed and controlled from a single terminal.
 - [JSONLint](https://jsonlint.com/) JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format
 - [Wormholy](https://github.com/pmusolino/Wormholy) iOS network debugging
 - [Bagel](https://github.com/yagiz/Bagel) a little native network debugging tool for iOS
+- [Debookee](https://debookee.com/) Debookee is a simple and powerful network traffic analyzer for macOS.
 
 ## Data
 
