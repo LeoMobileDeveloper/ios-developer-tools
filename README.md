@@ -291,7 +291,7 @@ to be accessed and controlled from a single terminal.
 - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) Make your computer run smoothly by suspending the tabs you aren't using
 
 ## Other
-
+- [Graphviz](https://graphviz.org/) Gaphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks.
 - [UTM](https://github.com/utmapp/UTM) Virtual machines for iOS
 - [Alfred](https://www.alfredapp.com/) Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more. 
 - [Bear](https://bear.app/) Bear is a beautiful, flexible writing app for crafting notes and prose.
