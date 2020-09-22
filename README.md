@@ -41,6 +41,7 @@
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
     - [Simplified Chinese](https://developer.apple.com/cn/app-store/review/guidelines/)
 - [Auto-renewable Subscriptions](https://developer.apple.com/app-store/subscriptions/)
+- [App Store Connect Help](https://help.apple.com/app-store-connect)
 
 ## IDE
 
