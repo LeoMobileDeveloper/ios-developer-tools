@@ -330,3 +330,4 @@ to be accessed and controlled from a single terminal.
 - [Swiftify](https://swiftify.com/#/converter/code/) - Objective-C to Swift Converter
 - [Storyboard -> SwiftUI Converter](https://swiftify.com/#/converter/storyboard2swiftui/) - Storyboard / Xib to SwiftUI converter
 - [Xcode Projects](https://github.com/DKalachniuk/XcodeProjects) - Open quickly your Xcode projects and very handy for cocoapods. Do pod install and pod update in 2 clicks
+- [XCOrganizer](https://apps.apple.com/us/app/xcorganizer/id1507556912) - Fast and easy Xcode projects search. Supports Xcode Projects, Workspaces, Playgrounds, Swift Packages
