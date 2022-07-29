@@ -47,7 +47,7 @@
 
 - [Xcode](https://developer.apple.com/xcode/) you will spend most of your time with it 
     - [awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) Awesome native Xcode extensions.
-    - [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) This repository holds the device support files for the iOS, and I will update it regularly.
+    - [Swimat](https://github.com/Jintin/Swimat) Swimat is an Xcode plug-in to format your Swift code.
     - [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport/tree/master/DeviceSupport) This repository holds the device support files for the iOS, and I will update it regularly.
 - [Atom](https://atom.io/) + [Nuclide](https://nuclide.io/) If you need to write react-native Code
 - [MacDown](http://macdown.uranusjr.com/) open source Markdown editor for macOS
