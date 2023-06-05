@@ -230,6 +230,7 @@ to be accessed and controlled from a single terminal.
 
 - [Localazy](https://localazy.com) - Developer-friendly localization tool for iOS and macOS apps supporting .strings, .stringsdict, .plist and XLIFF files.
 - [Loca Studio](https://www.cunningo.com/locastudio/index.html) Analyze, review, and edit your app translations. Can directly open the Xcode Localization Catalog (xcloc) and XLIFF 1.2 file formats.
+- [RemafoX: Easy App Localization](https://remafox.app/?ref=github.com) Add (pluralized) translations without leaving Swift code, Machine Translation to 150+ languages, Linting & Normalizing Strings(dict) files & more.
 
 ## Reverse engineering
 
