@@ -154,7 +154,7 @@ to be accessed and controlled from a single terminal.
 - [WHC_ScanUnreferenceImageTool](https://github.com/netyouli/WHC_ScanUnreferenceImageTool) Scanning project does not use images in tool, delete without reference images to reduce the packaging volume
 - [FengNiao](https://github.com/onevcat/FengNiao) A command line tool for cleaning unused resources in Xcode.
 - [IBAnalyzer](https://github.com/fastred/IBAnalyzer) Find common xib and storyboard-related problems without running your app or writing unit tests.
-- [Simian](http://www.harukizaemon.com/simian/index.html) Similarity Analyser
+- [Simian Similarity Analyzer](https://simian.quandarypeak.com) Simian identifies duplication in source code. It can analyze any human readable file, vintage and modern.
 - [cartool](https://github.com/steventroughtonsmith/cartool) Export images from OS X / iOS .car CoreUI archives
 - [XcodeZombieCode](https://github.com/kangwang1988/XcodeZombieCode) A source-code level/Clang Approach
 - [Faux Pas](http://fauxpasapp.com/) Find errors in your iOS or Mac project(Not free)
