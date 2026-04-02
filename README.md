@@ -69,6 +69,7 @@
 - [Firebase](https://firebase.google.com/) Firebase is a BaaS  (Backend-as-a-Service) that can be your server, datastore, and API at the same time. 
 	- [Crashlytics](https://firebase.google.com/docs/crashlytics/) Spend less time troubleshooting & more time building great apps. 
 - [Parse](https://parseplatform.org/) Build applications faster with object and file storage,
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 user authentication, push notifications, dashboard and more out of the box.
 
 
