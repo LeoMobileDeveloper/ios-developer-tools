@@ -309,6 +309,7 @@ to be accessed and controlled from a single terminal.
 - [Source Tree](http://www.sourcetreeapp.com/) Harness the power of Git and Hg in a beautifully simple application
 - [gitkraken](https://www.gitkraken.com/) The legendary Git GUI client for Windows, Mac and Linux
 - [PaintCode](https://www.paintcodeapp.com/) Turn drawings into code.
+- [Lumox](https://lumox.app) - QuickTime Alternative: Create stunning product demos and tutorials for your mobile apps.
 - [reflector](http://www.airsquirrels.com/reflector/) wireless mirroring and streaming receiver 
 - [Sketch](https://www.sketchapp.com/) Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
 - [Haiku](https://www.haiku.ai/) Design components that snap into any codebase
