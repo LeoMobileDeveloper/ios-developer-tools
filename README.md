@@ -228,6 +228,7 @@ to be accessed and controlled from a single terminal.
 
 ## Localization
 
+- [App Doodler](https://doodler.copymyui.com/) - Free, open-source generator for localized App Store screenshot sets with reusable layouts and translation imports.
 - [Localazy](https://localazy.com) - Developer-friendly localization tool for iOS and macOS apps supporting .strings, .stringsdict, .plist and XLIFF files.
 - [Loca Studio](https://www.cunningo.com/locastudio/index.html) Analyze, review, and edit your app translations. Can directly open the Xcode Localization Catalog (xcloc) and XLIFF 1.2 file formats.
 
